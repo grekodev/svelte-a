@@ -70,7 +70,7 @@
       </div>
       <h2>
         brapastor
-        <span>10 horas antes</span>
+        <span>11 horas antes</span>
       </h2>
     </div>
   </div>
